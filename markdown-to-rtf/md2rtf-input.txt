@@ -34,4 +34,4 @@ I like this quote from Jackie Chan:
 
 ### Shameless
 
-Also if you like riddles see (my site from 1989)[http://tobiasoleary.com].
+Also if you like riddles see [my site from 1989](http://tobiasoleary.com).
