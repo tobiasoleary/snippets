@@ -1,18 +1,37 @@
-#### Mark down test
+### Mark down test file
 
-**Bold**
-_Italics_
+### Inline Styling
 
-    // code line 1
-    // code line 2    
+I want to **emphasis** to you how _happy_ I am with this discovery. I would like to thank `Automator.app` for providing a simple way for hacking together a solution and [Brett Terpstra](http://brettterpstra.com) for his insights into this problem and critic of my in-progress script. 
 
+### Block Quote
+
+I like this quote from Jackie Chan:
+
+> Don't try to be like Jackie. 
+> There is only one Jackie. 
+> Study computers instead.
+
+#### Code
+
+    // code line 1
+    // code line 2
+
+
+#### Bullet Lists
 
 * Bullet List 1
 * Bullet List 2
 * Bullet List 3
 * Bullet List 4
 
-# Numbered List 1
-# Numbered List 2
-# Numbered List 3
-# Numbered List 4
+#### Number Lists (Note removing this line will cause the Bullet List to absorb the numbered list.)
+
+1. Numbered List 1
+1. Numbered List 2
+1. Numbered List 3
+1. Numbered List 4
+
+### Shameless
+
+Also if you like riddles see (my site from 1989)[http://tobiasoleary.com].
