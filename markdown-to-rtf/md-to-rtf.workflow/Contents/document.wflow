@@ -61,7 +61,8 @@
 					<key>COMMAND_STRING</key>
 					<string>#!/bin/sh
 
-cat /dev/stdin | /usr/local/bin/mmd | textutil -convert rtf -stdin -stdout -format html &gt; ~/.tmp-md2rtf.rtf;
+[[ -f $HOME/styles/rtfstyle.txt ]] &amp;&amp; header="$HOME/styles/rtfstyle.txt" || header=""
+cat $header /dev/stdin | /usr/local/bin/mmd | textutil -convert rtf -stdin -stdout -format html &gt; ~/.tmp-md2rtf.rtf;
 pbcopy -Prefer rtf &lt; ~/.tmp-md2rtf.rtf; #Some reason pbcopy doesn't like reading from stdin.
 rm ~/.tmp-md2rtf.rtf; # Clean Up
 
@@ -178,7 +179,7 @@ exit 0;</string>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>447.000000:688.000000</string>
+				<string>545.500000:686.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/English.lproj/main.nib</string>
 			</dict>
@@ -254,14 +255,12 @@ exit 0;</string>
 				</array>
 				<key>arguments</key>
 				<dict/>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 			</dict>
 		</dict>
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>DED98899-D8B4-4951-8628-FD9DE3690B58</key>
+		<key>59FB1B70-5BA5-4EE1-9D69-B2ABFC271CEC</key>
 		<dict>
 			<key>from</key>
 			<string>EBF216AD-42E9-4409-B216-7407D3F2DA88 - EBF216AD-42E9-4409-B216-7407D3F2DA88</string>

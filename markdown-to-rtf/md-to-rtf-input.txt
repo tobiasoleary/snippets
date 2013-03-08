@@ -35,3 +35,7 @@ I like this quote from Jackie Chan:
 ### Shameless
 
 Also if you like riddles see [my site from 1989](http://tobiasoleary.com).
+
+## Addition (From @ttscoff)
+
+If you have a file called "rtfstyle.txt" at `$HOME/styles/rtfstyle.txt` it will be used to style the RTF output of the service. It should contain a MultiMarkdown style "XHTML Header:" line and a compressed, single-line CSS file inside of `<style>` tags. See the included example. 
