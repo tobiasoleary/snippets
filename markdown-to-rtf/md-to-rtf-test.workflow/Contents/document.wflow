@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>AMApplicationBuild</key>
-	<string>346</string>
+	<string>409</string>
 	<key>AMApplicationVersion</key>
-	<string>2.3</string>
+	<string>2.5</string>
 	<key>AMDocumentVersion</key>
 	<string>2</string>
 	<key>actions</key>
@@ -50,9 +50,9 @@
 					<key>enteredRTFDData</key>
 					<data>
 					cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRm
-					AQAAAC5hBAAAKwAAAAEAAABZBAAAe1xydGYx
+					AQAAAC7WBAAAKwAAAAEAAADOBAAAe1xydGYx
 					XGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYx
-					MTg3XGNvY29hc3VicnRmMzQwCntcZm9udHRi
+					MzQzXGNvY29hc3VicnRmMTYwCntcZm9udHRi
 					bFxmMFxmc3dpc3NcZmNoYXJzZXQwIEhlbHZl
 					dGljYTt9CntcY29sb3J0Ymw7XHJlZDI1NVxn
 					cmVlbjI1NVxibHVlMjU1O30KXGRlZnRhYjcy
@@ -70,30 +70,34 @@
 					Zm9yIGhpcyBpbnNpZ2h0cyBpbnRvIHRoaXMg
 					cHJvYmxlbSBhbmQgY3JpdGljIG9mIG15IGlu
 					LXByb2dyZXNzIHNjcmlwdC5cJ2EwXApcCiMj
-					IyBCbG9jayBRdW90ZVwKXApJIGxpa2UgdGhp
-					cyBxdW90ZSBmcm9tIEphY2tpZSBDaGFuOlwK
-					XAo+IERvbid0IHRyeSB0byBiZSBsaWtlIEph
-					Y2tpZS5cJ2EwXAo+IFRoZXJlIGlzIG9ubHkg
-					b25lIEphY2tpZS5cJ2EwXAo+IFN0dWR5IGNv
-					bXB1dGVycyBpbnN0ZWFkLlwKXAojIyMjIENv
-					ZGVcClwKXCdhMCBcJ2EwIC8vIGNvZGUgbGlu
-					ZSAxXApcJ2EwIFwnYTAgLy8gY29kZSBsaW5l
-					IDJcClwKXAojIyMjIEJ1bGxldCBMaXN0c1wK
-					XAoqIEJ1bGxldCBMaXN0IDFcCiogQnVsbGV0
-					IExpc3QgMlwKKiBCdWxsZXQgTGlzdCAzXAoq
-					IEJ1bGxldCBMaXN0IDRcClwKIyMjIyBOdW1i
-					ZXIgTGlzdHMgKE5vdGUgcmVtb3ZpbmcgdGhp
-					cyBsaW5lIHdpbGwgY2F1c2UgdGhlIEJ1bGxl
-					dCBMaXN0IHRvIGFic29yYiB0aGUgbnVtYmVy
-					ZWQgbGlzdC4pXApcCjEuIE51bWJlcmVkIExp
-					c3QgMVwKMS4gTnVtYmVyZWQgTGlzdCAyXAox
-					LiBOdW1iZXJlZCBMaXN0IDNcCjEuIE51bWJl
-					cmVkIExpc3QgNFwKXAojIyMgU2hhbWVsZXNz
-					XApcCkFsc28gaWYgeW91IGxpa2UgcmlkZGxl
-					cyBzZWUgW215IHNpdGUgZnJvbSAxOTg5XSho
-					dHRwOi8vdG9iaWFzb2xlYXJ5LmNvbSkuXAp9
-					AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAA
-					rEAuUbYBAAAAAAAAAAAAAA==
+					IyBIb3Jpem9udGFsIFJ1bGVcClwKVGhlcmUg
+					c2hvdWxkIGJlIGEgaG9yaXpvbnRhbCBydWxl
+					IGJlbG93IHRoaXMuXApcCi0gLSAtXApcCkRp
+					ZCB5b3Ugc2VlIHRoZSBob3Jpem9udGFsIHJ1
+					bGU/XApcCiMjIyBCbG9jayBRdW90ZVwKXApJ
+					IGxpa2UgdGhpcyBxdW90ZSBmcm9tIEphY2tp
+					ZSBDaGFuOlwKXAo+IERvbid0IHRyeSB0byBi
+					ZSBsaWtlIEphY2tpZS5cJ2EwXAo+IFRoZXJl
+					IGlzIG9ubHkgb25lIEphY2tpZS5cJ2EwXAo+
+					IFN0dWR5IGNvbXB1dGVycyBpbnN0ZWFkLlwK
+					XAojIyMjIENvZGVcClwKXCdhMCBcJ2EwIC8v
+					IGNvZGUgbGluZSAxXApcJ2EwIFwnYTAgLy8g
+					Y29kZSBsaW5lIDJcClwKXAojIyMjIEJ1bGxl
+					dCBMaXN0c1wKXAoqIEJ1bGxldCBMaXN0IDFc
+					CiogQnVsbGV0IExpc3QgMlwKKiBCdWxsZXQg
+					TGlzdCAzXAoqIEJ1bGxldCBMaXN0IDRcClwK
+					IyMjIyBOdW1iZXIgTGlzdHMgKE5vdGUgcmVt
+					b3ZpbmcgdGhpcyBsaW5lIHdpbGwgY2F1c2Ug
+					dGhlIEJ1bGxldCBMaXN0IHRvIGFic29yYiB0
+					aGUgbnVtYmVyZWQgbGlzdC4pXApcCjEuIE51
+					bWJlcmVkIExpc3QgMVwKMS4gTnVtYmVyZWQg
+					TGlzdCAyXAoxLiBOdW1iZXJlZCBMaXN0IDNc
+					CjEuIE51bWJlcmVkIExpc3QgNFwKXAojIyMg
+					U2hhbWVsZXNzXApcCkFsc28gaWYgeW91IGxp
+					a2UgcmlkZGxlcyBzZWUgW215IHNpdGUgZnJv
+					bSAxOTg5XShodHRwOi8vdG9iaWFzb2xlYXJ5
+					LmNvbSkuXAp9AQAAACMAAAABAAAABwAAAFRY
+					VC5ydGYQAAAAIrHFVLYBAAAAAAAAAAAAAA==
 					</data>
 					<key>enteredRTFDText</key>
 					<string></string>
@@ -103,6 +107,14 @@
 ### Inline Styling
 
 I want to **emphasis** to you how _happy_ I am with this discovery. I would like to thank `Automator.app` for providing a simple way for hacking together a solution and [Brett Terpstra](http://brettterpstra.com) for his insights into this problem and critic of my in-progress script. 
+
+### Horizontal Rule
+
+There should be a horizontal rule below this.
+
+- - -
+
+Did you see the horizontal rule?
 
 ### Block Quote
 
@@ -194,14 +206,14 @@ Also if you like riddles see [my site from 1989](http://tobiasoleary.com).
 					</dict>
 				</dict>
 				<key>isViewVisible</key>
-				<false/>
+				<true/>
 				<key>location</key>
-				<string>545.500000:751.000000</string>
+				<string>477.000000:169.000000</string>
 				<key>nibPath</key>
-				<string>/System/Library/Automator/Get Specified Text.action/Contents/Resources/English.lproj/main.nib</string>
+				<string>/System/Library/Automator/Get Specified Text.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
 			<key>isViewVisible</key>
-			<false/>
+			<true/>
 		</dict>
 		<dict>
 			<key>action</key>
@@ -306,9 +318,9 @@ Also if you like riddles see [my site from 1989](http://tobiasoleary.com).
 				<key>isViewVisible</key>
 				<false/>
 				<key>location</key>
-				<string>545.500000:709.000000</string>
+				<string>477.000000:211.000000</string>
 				<key>nibPath</key>
-				<string>/System/Library/Automator/Set Value of Variable.action/Contents/Resources/English.lproj/main.nib</string>
+				<string>/System/Library/Automator/Set Value of Variable.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
 			<key>isViewVisible</key>
 			<false/>
@@ -324,7 +336,6 @@ Also if you like riddles see [my site from 1989](http://tobiasoleary.com).
 					<true/>
 					<key>Types</key>
 					<array>
-						<string>com.apple.cocoa.string</string>
 						<string>com.apple.cocoa.attributed-string</string>
 					</array>
 				</dict>
@@ -343,7 +354,6 @@ Also if you like riddles see [my site from 1989](http://tobiasoleary.com).
 					<key>Types</key>
 					<array>
 						<string>com.apple.cocoa.attributed-string</string>
-						<string>com.apple.cocoa.string</string>
 					</array>
 				</dict>
 				<key>AMRequiredResources</key>
@@ -489,9 +499,9 @@ Also if you like riddles see [my site from 1989](http://tobiasoleary.com).
 				<key>isViewVisible</key>
 				<false/>
 				<key>location</key>
-				<string>545.500000:601.000000</string>
+				<string>477.000000:319.000000</string>
 				<key>nibPath</key>
-				<string>/System/Library/Automator/Set Value of Variable.action/Contents/Resources/English.lproj/main.nib</string>
+				<string>/System/Library/Automator/Set Value of Variable.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
 			<key>isViewVisible</key>
 			<false/>
@@ -530,9 +540,11 @@ Also if you like riddles see [my site from 1989](http://tobiasoleary.com).
 				<dict>
 					<key>Container</key>
 					<string>List</string>
+					<key>Optional</key>
+					<true/>
 					<key>Types</key>
 					<array>
-						<string>*</string>
+						<string>com.apple.cocoa.string</string>
 					</array>
 				</dict>
 				<key>AMRequiredResources</key>
@@ -601,9 +613,9 @@ Also if you like riddles see [my site from 1989](http://tobiasoleary.com).
 				<key>isViewVisible</key>
 				<false/>
 				<key>location</key>
-				<string>545.500000:559.000000</string>
+				<string>477.000000:361.000000</string>
 				<key>nibPath</key>
-				<string>/System/Library/Automator/Get Value of Variable.action/Contents/Resources/English.lproj/main.nib</string>
+				<string>/System/Library/Automator/Get Value of Variable.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
 			<key>isViewVisible</key>
 			<false/>
@@ -669,6 +681,10 @@ Also if you like riddles see [my site from 1989](http://tobiasoleary.com).
 #DEBUG Specify encoding in with textutil.
 # cat /dev/stdin | /usr/local/bin/mmd | textutil -convert rtf -stdin -stdout \
 # -format html -encoding US-ASCII -font Helvetica -fontsize 14 &gt; ~/.tmp-md2rtf.rtf;
+
+# DEBUG - Output the HTML file for viewing
+[[ -f $HOME/styles/rtfstyle.txt ]] &amp;&amp; header="$HOME/styles/rtfstyle.txt" || header=""
+cat $header /dev/stdin | /usr/local/bin/mmd &gt;&gt; .tmp-md2rtf.html
 
 [[ -f $HOME/styles/rtfstyle.txt ]] &amp;&amp; header="$HOME/styles/rtfstyle.txt" || header=""
 cat $header /dev/stdin | /usr/local/bin/mmd | textutil -convert rtf -stdin -stdout -format html -font Helvetica -fontsize 14 &gt; ~/.tmp-md2rtf.rtf;
@@ -791,7 +807,7 @@ exit 0;</string>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>545.500000:517.000000</string>
+				<string>477.000000:544.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/English.lproj/main.nib</string>
 			</dict>
@@ -809,7 +825,6 @@ exit 0;</string>
 					<true/>
 					<key>Types</key>
 					<array>
-						<string>com.apple.cocoa.string</string>
 						<string>com.apple.cocoa.attributed-string</string>
 					</array>
 				</dict>
@@ -828,7 +843,6 @@ exit 0;</string>
 					<key>Types</key>
 					<array>
 						<string>com.apple.cocoa.attributed-string</string>
-						<string>com.apple.cocoa.string</string>
 					</array>
 				</dict>
 				<key>AMRequiredResources</key>
@@ -974,9 +988,9 @@ exit 0;</string>
 				<key>isViewVisible</key>
 				<false/>
 				<key>location</key>
-				<string>545.500000:268.000000</string>
+				<string>477.000000:652.000000</string>
 				<key>nibPath</key>
-				<string>/System/Library/Automator/Set Value of Variable.action/Contents/Resources/English.lproj/main.nib</string>
+				<string>/System/Library/Automator/Set Value of Variable.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
 			<key>isViewVisible</key>
 			<false/>
@@ -1015,9 +1029,11 @@ exit 0;</string>
 				<dict>
 					<key>Container</key>
 					<string>List</string>
+					<key>Optional</key>
+					<false/>
 					<key>Types</key>
 					<array>
-						<string>*</string>
+						<string>com.apple.cocoa.attributed-string</string>
 					</array>
 				</dict>
 				<key>AMRequiredResources</key>
@@ -1086,9 +1102,9 @@ exit 0;</string>
 				<key>isViewVisible</key>
 				<false/>
 				<key>location</key>
-				<string>545.500000:226.000000</string>
+				<string>477.000000:694.000000</string>
 				<key>nibPath</key>
-				<string>/System/Library/Automator/Get Value of Variable.action/Contents/Resources/English.lproj/main.nib</string>
+				<string>/System/Library/Automator/Get Value of Variable.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
 			<key>isViewVisible</key>
 			<false/>
@@ -1104,7 +1120,6 @@ exit 0;</string>
 					<false/>
 					<key>Types</key>
 					<array>
-						<string>com.apple.cocoa.string</string>
 						<string>com.apple.cocoa.attributed-string</string>
 					</array>
 				</dict>
@@ -1124,7 +1139,6 @@ exit 0;</string>
 					<false/>
 					<key>Types</key>
 					<array>
-						<string>com.apple.cocoa.string</string>
 						<string>com.apple.cocoa.attributed-string</string>
 					</array>
 				</dict>
@@ -1202,7 +1216,7 @@ exit 0;</string>
 					<string>List</string>
 					<key>Types</key>
 					<array>
-						<string>*</string>
+						<string>com.apple.cocoa.string</string>
 					</array>
 				</dict>
 				<key>AMRequiredResources</key>
@@ -1271,9 +1285,9 @@ exit 0;</string>
 				<key>isViewVisible</key>
 				<false/>
 				<key>location</key>
-				<string>545.500000:118.000000</string>
+				<string>477.000000:802.000000</string>
 				<key>nibPath</key>
-				<string>/System/Library/Automator/Get Value of Variable.action/Contents/Resources/English.lproj/main.nib</string>
+				<string>/System/Library/Automator/Get Value of Variable.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
 			<key>isViewVisible</key>
 			<false/>
@@ -1281,75 +1295,75 @@ exit 0;</string>
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>25980C12-816D-421A-AACD-184FB3359748</key>
-		<dict>
-			<key>from</key>
-			<string>3DE8D33A-5D7F-4888-8BEF-C8317CD0B965 - 3DE8D33A-5D7F-4888-8BEF-C8317CD0B965</string>
-			<key>to</key>
-			<string>B85F08B3-1C0C-4B71-9138-852C45701D79 - B85F08B3-1C0C-4B71-9138-852C45701D79</string>
-		</dict>
-		<key>26C70595-15BA-4941-9D9B-8AD69A9B9886</key>
-		<dict>
-			<key>from</key>
-			<string>EBF216AD-42E9-4409-B216-7407D3F2DA88 - EBF216AD-42E9-4409-B216-7407D3F2DA88</string>
-			<key>to</key>
-			<string>3DE8D33A-5D7F-4888-8BEF-C8317CD0B965 - 3DE8D33A-5D7F-4888-8BEF-C8317CD0B965</string>
-		</dict>
-		<key>2F99E8A5-11D6-4F8B-844D-10DD0041117C</key>
-		<dict>
-			<key>from</key>
-			<string>5B5A4CEE-3095-4048-B649-895536F2B77A - 5B5A4CEE-3095-4048-B649-895536F2B77A</string>
-			<key>to</key>
-			<string>AB56D8B6-CBBE-4C24-B0B6-567C7A23EDCE - AB56D8B6-CBBE-4C24-B0B6-567C7A23EDCE</string>
-		</dict>
-		<key>40FD9717-477D-4FC7-9570-4ECA4C3B1E6A</key>
-		<dict>
-			<key>from</key>
-			<string>B85F08B3-1C0C-4B71-9138-852C45701D79 - B85F08B3-1C0C-4B71-9138-852C45701D79</string>
-			<key>to</key>
-			<string>86280172-72FF-4DF5-AB56-56EC5B5DCC54 - 86280172-72FF-4DF5-AB56-56EC5B5DCC54</string>
-		</dict>
-		<key>59583C4A-85AD-4DBA-B08A-8F42D879CFA5</key>
+		<key>0C0F71F9-3C4F-45FC-96CF-B72ADBADDFF4</key>
 		<dict>
 			<key>from</key>
 			<string>058C0573-6944-4C59-A8D4-82AB678D9C43 - 058C0573-6944-4C59-A8D4-82AB678D9C43</string>
 			<key>to</key>
 			<string>D8D51923-7856-4202-8707-302EF5F45BD4 - D8D51923-7856-4202-8707-302EF5F45BD4</string>
 		</dict>
-		<key>940B89F3-8327-496D-B2A3-CB6AFD09D52B</key>
+		<key>37EF0BBE-AC02-4DD4-9DA6-A18300CCA494</key>
 		<dict>
 			<key>from</key>
-			<string>D8D51923-7856-4202-8707-302EF5F45BD4 - D8D51923-7856-4202-8707-302EF5F45BD4</string>
+			<string>AB56D8B6-CBBE-4C24-B0B6-567C7A23EDCE - AB56D8B6-CBBE-4C24-B0B6-567C7A23EDCE</string>
 			<key>to</key>
-			<string>EBE03B1F-1461-4D50-9EA6-4CE6AEE6C175 - EBE03B1F-1461-4D50-9EA6-4CE6AEE6C175</string>
+			<string>EBF216AD-42E9-4409-B216-7407D3F2DA88 - EBF216AD-42E9-4409-B216-7407D3F2DA88</string>
 		</dict>
-		<key>BD88CF8A-D13A-4D5F-9AB4-4E40DC747408</key>
-		<dict>
-			<key>from</key>
-			<string>EBE03B1F-1461-4D50-9EA6-4CE6AEE6C175 - EBE03B1F-1461-4D50-9EA6-4CE6AEE6C175</string>
-			<key>to</key>
-			<string>5B5A4CEE-3095-4048-B649-895536F2B77A - 5B5A4CEE-3095-4048-B649-895536F2B77A</string>
-		</dict>
-		<key>BEB0D382-4B3E-4C8F-93CB-10EC77F3A5C3</key>
-		<dict>
-			<key>from</key>
-			<string>8F3634FC-E199-43C6-AAC7-CAC5782BCCDE - 8F3634FC-E199-43C6-AAC7-CAC5782BCCDE</string>
-			<key>to</key>
-			<string>F59727F5-5B90-4194-9384-15520B014417 - F59727F5-5B90-4194-9384-15520B014417</string>
-		</dict>
-		<key>E8BD5074-EFD3-4BDE-9A63-07AAFB226546</key>
+		<key>4FF8FC5E-7F6A-4FB3-959B-80CDE2417873</key>
 		<dict>
 			<key>from</key>
 			<string>86280172-72FF-4DF5-AB56-56EC5B5DCC54 - 86280172-72FF-4DF5-AB56-56EC5B5DCC54</string>
 			<key>to</key>
 			<string>8F3634FC-E199-43C6-AAC7-CAC5782BCCDE - 8F3634FC-E199-43C6-AAC7-CAC5782BCCDE</string>
 		</dict>
-		<key>E9F75134-B534-4D85-A115-8F72D3F5CB49</key>
+		<key>6F399E15-4C6E-4A3B-ABDE-EACF81AF60C7</key>
 		<dict>
 			<key>from</key>
-			<string>AB56D8B6-CBBE-4C24-B0B6-567C7A23EDCE - AB56D8B6-CBBE-4C24-B0B6-567C7A23EDCE</string>
+			<string>EBE03B1F-1461-4D50-9EA6-4CE6AEE6C175 - EBE03B1F-1461-4D50-9EA6-4CE6AEE6C175</string>
 			<key>to</key>
+			<string>5B5A4CEE-3095-4048-B649-895536F2B77A - 5B5A4CEE-3095-4048-B649-895536F2B77A</string>
+		</dict>
+		<key>6F3AEFA2-EB36-4274-A479-72C70B896BC9</key>
+		<dict>
+			<key>from</key>
 			<string>EBF216AD-42E9-4409-B216-7407D3F2DA88 - EBF216AD-42E9-4409-B216-7407D3F2DA88</string>
+			<key>to</key>
+			<string>3DE8D33A-5D7F-4888-8BEF-C8317CD0B965 - 3DE8D33A-5D7F-4888-8BEF-C8317CD0B965</string>
+		</dict>
+		<key>A2DE623A-CA86-4DBF-8F53-B541F2F2035A</key>
+		<dict>
+			<key>from</key>
+			<string>5B5A4CEE-3095-4048-B649-895536F2B77A - 5B5A4CEE-3095-4048-B649-895536F2B77A</string>
+			<key>to</key>
+			<string>AB56D8B6-CBBE-4C24-B0B6-567C7A23EDCE - AB56D8B6-CBBE-4C24-B0B6-567C7A23EDCE</string>
+		</dict>
+		<key>C9ED4185-8E93-4533-AF10-EF988FEE61E1</key>
+		<dict>
+			<key>from</key>
+			<string>8F3634FC-E199-43C6-AAC7-CAC5782BCCDE - 8F3634FC-E199-43C6-AAC7-CAC5782BCCDE</string>
+			<key>to</key>
+			<string>F59727F5-5B90-4194-9384-15520B014417 - F59727F5-5B90-4194-9384-15520B014417</string>
+		</dict>
+		<key>CC29665B-FDF3-481F-BBB4-FDC7682E21C0</key>
+		<dict>
+			<key>from</key>
+			<string>D8D51923-7856-4202-8707-302EF5F45BD4 - D8D51923-7856-4202-8707-302EF5F45BD4</string>
+			<key>to</key>
+			<string>EBE03B1F-1461-4D50-9EA6-4CE6AEE6C175 - EBE03B1F-1461-4D50-9EA6-4CE6AEE6C175</string>
+		</dict>
+		<key>EB19FA51-8ADA-48C0-93C8-3670023A645B</key>
+		<dict>
+			<key>from</key>
+			<string>B85F08B3-1C0C-4B71-9138-852C45701D79 - B85F08B3-1C0C-4B71-9138-852C45701D79</string>
+			<key>to</key>
+			<string>86280172-72FF-4DF5-AB56-56EC5B5DCC54 - 86280172-72FF-4DF5-AB56-56EC5B5DCC54</string>
+		</dict>
+		<key>F9C4BDDA-3918-408F-BF19-3FCBE5C9C627</key>
+		<dict>
+			<key>from</key>
+			<string>3DE8D33A-5D7F-4888-8BEF-C8317CD0B965 - 3DE8D33A-5D7F-4888-8BEF-C8317CD0B965</string>
+			<key>to</key>
+			<string>B85F08B3-1C0C-4B71-9138-852C45701D79 - B85F08B3-1C0C-4B71-9138-852C45701D79</string>
 		</dict>
 	</dict>
 	<key>variables</key>
