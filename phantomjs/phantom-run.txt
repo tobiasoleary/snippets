@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+phantom_version=`phantomjs --version`
+echo "Running phantomjs $phantom_version on $TM_FILEPATH <br/>"
+phantomjs --disk-cache=true --web-security=false --load-images=false "$TM_FILEPATH"	
+	
+
+### Simple Run Command for Phantom JS for TextMate 2
