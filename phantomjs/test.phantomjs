@@ -34,8 +34,8 @@ page.onLoadFinished = function() {
 	
 	if(page.step == 'Home') {
 		page_Home();
-	} else if(page.step == 'Network'){
-		page_Network();
+	} else if(page.step == 'Get Started'){
+		page_GetStarted();
 	}
 };
 
@@ -46,7 +46,7 @@ page.onUrlChanged = function(targetUrl) {
 
 //// START PAGE AUTOMATION
 
-var url = 'http://www.psychiatry.org/';
+var url = 'http://phantomjs.org';
 page.step = "Home";
 page.open(url, function(status) {
 	if(status != 'success') {
@@ -63,14 +63,14 @@ function page_Home() {
 	page.injectJs("./custom.js");
 
 	page.evaluate(function() {
-		var link = $("a:contains('Network')");
+		var link = $("a:contains('Get started')");
 		console.log("Clicking Link with HREF: " + link.attr('href') + "...");
 		click_elem(link[0]);
 	});	
-	page.step = 'Network';
+	page.step = 'Get Started';
 }
 
-function page_Network() {
+function page_GetStarted() {
 	page.evaluate(function() {
 		console.log("Title: " + document.title);
 	});	
